@@ -12,7 +12,7 @@ try {
         $sql = "UPDATE `adverts` SET `clicks` = `clicks`+1 WHERE `advert_id` = {$advert_id}";
         $pdo->exec($sql);
     
-        // Redirect to ad_owner website
+        // Redirect to ad_owner's website
         header("location:$owner");
         exit;
     }

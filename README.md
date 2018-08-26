@@ -1,5 +1,4 @@
 # Simple Ad Rotation System
----
 
 ARS is a basic fair Advertisement Rotation System. 
 It was basically written for learning purposes not exactly with the best coding standards in mind.
